@@ -1,0 +1,23 @@
+body {
+    font-family: verdana,sans-serif;
+    font-size: 0.9em;
+}
+header,footer{
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
+section{
+    margin: 5px;
+    padding: 10px;
+    background-color: lightgrey;
+}
+article{
+    margin: 5px;
+    padding: 10px;
+    background-color: white;
+}
+nav ul li {
+    display: inline;
+    margin: 5px;
+}
